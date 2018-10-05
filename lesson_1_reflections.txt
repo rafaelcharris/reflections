@@ -1,0 +1,31 @@
+lesson_1_reflections.txt
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Viewing the two version made it very easy to see the bugs because it was easier to compare both versions of the code.
+I prefered to see the Mac version of version control because it shows where the code was inserted and where it was removed. This makes it really easy to discover bugs very fast.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Having easy acces allows programmers to look at previous versions of the code to catch bugs easily. Also, it let's you see the progress you've made in programming. Also, it lets you pick up old versions of code and fix them or used them in other projects. It's like having a repository of your academic live
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+The cons are that you may forget to commit importnata changes so it may be difficult to read in the future or you may even lose part of your progress.
+The pro is that, if you doing thoughtfully, the commit may make sense for you (or anyone reading the commit) so you woudln't have useless versions of your code but just different logical steps.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+I think this is the case because git is used for coding a lot of times. This means that sometimes, unlike when one is writting a word file, some files maybe interconnected. So a change in one file means a change in an other one and, because of this, is neccesary to track both changes.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log tells me the name of the previous commits with the messages that tells me which changes where made. Git diff compares two commits and tells and shows the lines that where added and erased from the file.
+
+How might using version control make you more confident to make changes that could break something?
+
+Checking out could help me to be able to make changes and knowing that I can always go back to previous versions. This will make the progress faster as there is no fear of messign it up. Be more a risk taker!
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I'll like to work on a real project
