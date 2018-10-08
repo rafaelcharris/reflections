@@ -11,3 +11,7 @@ It gives more flexibility at the time of chossing which files I am uploading to 
 How can you use the staging area to make sure you have one commit per logical change?
 
 I can add to the staging area only the files in which I've made a logical change. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are hepdul when you want to make another version or a big experimenatl change to the code you already have. This allows you to have two versions of the same code but make slight changes that don't change the hole structure. 
