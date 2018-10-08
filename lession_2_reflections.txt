@@ -7,3 +7,7 @@ How is the staging area different from the working directory and the repository?
 
 Staging area is and in-between area between working directoy and the repository. You put your files there before commiting them into the repository.
 It gives more flexibility at the time of chossing which files I am uploading to the repository
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can add to the staging area only the files in which I've made a logical change. 
