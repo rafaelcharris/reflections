@@ -15,3 +15,7 @@ I can add to the staging area only the files in which I've made a logical change
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches are hepdul when you want to make another version or a big experimenatl change to the code you already have. This allows you to have two versions of the same code but make slight changes that don't change the hole structure. 
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help to see how the commits are organized and how the branches are related. This helps to see which commits are or not reachable and helos to see where are we making changes so we can go back to a previous commit.
