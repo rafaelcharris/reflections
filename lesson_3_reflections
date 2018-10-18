@@ -13,3 +13,7 @@ Fork is to copy a repository in one github account to another one. Clone is used
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 This is beneficial because if I am offline I could check the changes that were made on the repository before I merge it to the master branch
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would collaborate using google docs. I wouldn't need to use any code, so taht would be easier. But I would have to use google docs formats only. Also, it would be more difficult to follow the version control because there wouldn't be any commit history. At the same time, the changes made to the document would be more desorganizes as everyone could change what he or she prefers.
