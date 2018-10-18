@@ -17,3 +17,8 @@ This is beneficial because if I am offline I could check the changes that were m
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would collaborate using google docs. I wouldn't need to use any code, so taht would be easier. But I would have to use google docs formats only. Also, it would be more difficult to follow the version control because there wouldn't be any commit history. At the same time, the changes made to the document would be more desorganizes as everyone could change what he or she prefers.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I would like to make changes when I want to try some different changes that may break the master branch code or that are not accepted by everyone that is collaborating on the project.
+The benefits is that in this way everyone gets to check the changes before they are made and there are no changes that go under the hood. 
